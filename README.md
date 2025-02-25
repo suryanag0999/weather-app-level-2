@@ -1,12 +1,12 @@
 # Weather App
 
 ## 🌦 Overview
-This is a React-based Weather Application that provides real-time weather forecasts using the Open-Meteo API. The application fetches weather data and displays key information like temperature, humidity, wind speed, and weather conditions.
+This is a React-based Weather Application that provides real-time weather forecasts using the Open-Meteo API. The application fetches weather data and displays key information like temperature, humidity, wind speed, and weather conditions...
 
 ## 🚀 Features
 - Fetches real-time weather data.
-- Displays current temperature, humidity, and wind speed.
-- User-friendly UI built with React and Tailwind CSS.
+- Displays current temperature, humidity, and wind speed..
+- User-friendly UI built with React and Tailwind CSS..
 - Optimized for performance and responsiveness.
 - Error handling for API requests.
 
