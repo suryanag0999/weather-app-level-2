@@ -6,7 +6,7 @@ This is a React-based Weather Application that provides real-time weather foreca
 ## 🚀 Features
 - Fetches real-time weather data.
 - Displays current temperature, humidity, and wind speed..
-- User-friendly UI built with React and Tailwind CSS..
+- User-friendly UI built with React and Tailwind CSS
 - Optimized for performance and responsiveness.
 - Error handling for API requests.
 
